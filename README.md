@@ -62,7 +62,7 @@ Not all of our projects are listed here on Github, so please check out our websi
 
 | | |
 |-------|--------|
-| repo  | <a target="_" href="https://github.com/eth-library-lab/graph-such">eth-library-lab/graph-such</a>       |
+| repo  | <a target="_" href="https://github.com/eth-library-lab/open-image-search">eth-library-lab/open-image-search</a>       |
 | about | Image retrieval tool used to search for similar images in an archive and find relevant metadata |
 | tech  | Vue, Django, Tensorflow, Docker       | 
 | status| active 🏃|
